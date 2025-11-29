@@ -7,7 +7,7 @@ This repository summarizes my DIY 3D-printed linear servo motor.
 
 ## Youtube Video
 
-[![alt text](http://img.youtube.com/vi/ndlJ5Nt8iBA/0.jpg)](https://www.youtube.com/watch?v=ndlJ5Nt8iBA "title")
+[![alt text](http://img.youtube.com/vi/1hwOxAQ1ijk/0.jpg)](https://www.youtube.com/watch?v=1hwOxAQ1ijk "title")
 
 ## Hardware Description
 
